@@ -19,8 +19,14 @@ This repository is part of my **professional portfolio**, demonstrating my abili
 
 Below are sample previews of the dashboards:  
 
-![Dashboard Example 1](example1.png)  
-![Dashboard Example 2](example2.png)  
+![Dashboard Example 1](![Salesperson Analysis 1 by Debora Klein](https://github.com/user-attachments/assets/8ab7ab88-ab76-4e8a-af05-6ad1709632d9)
+)  
+![Dashboard Example 2](![Salesperson Analysis 2 by Debora Klein](https://github.com/user-attachments/assets/ae51a218-c9f6-4913-8990-1f4e25b0aeef)
+)  
+![Dashboard Example 3](![Salesperson Analysis 3 light mode by debora Klein](https://github.com/user-attachments/assets/a3dba81e-3c9e-4712-b31b-5eff74faac64)
+)  
+![Dashboard Example 3](![Salesperson 3 dark mode by Debora Klein](https://github.com/user-attachments/assets/c8c1ccef-86fb-4fb5-83a6-0f369f7fac1f)
+) 
 
 To explore the dashboards in detail, download the Excel files from this repository and interact with the visuals.  
 
