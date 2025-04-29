@@ -63,7 +63,14 @@ To display **top sellers or rankings** dynamically:
 - Structured a **clean and professional layout** ensuring clarity and usability.  
 - Added background elements and charts to enhance readability.  
 
-### **7. Final Integration**  
+### **7. Customization Options**  
+The **third dashboard** includes two visualization options:  
+- **Light Mode:** A standard design with clear contrasts and easy-to-read data.  
+- **Dark Mode:** A visually comfortable alternative that reduces eye strain, especially for prolonged use.  
+
+Users can switch between these modes for better accessibility and convenience.  
+
+### **8. Final Integration**  
 - Combined all elements into a **functional dashboard**.  
 - Tested usability with filters and interactive visuals.  
 
