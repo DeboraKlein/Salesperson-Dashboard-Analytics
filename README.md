@@ -27,6 +27,8 @@ Below are sample previews of the dashboards:
 )  
 ![Dashboard Example 3](![Salesperson Analysis 3 dark mode by Debora Klein](https://github.com/user-attachments/assets/0eb411c5-4ab1-4c8c-9a62-8f6d6f0fccd1)
 )
+![Dashboard Example 4](![Salesperson Analysis 4 by Debora Klein](https://github.com/user-attachments/assets/88f58a4d-0cb7-4b67-8519-c4f5a5067c6c)
+)
 
 
 To explore the dashboards in detail, download the Excel files from this repository and interact with the visuals.  
